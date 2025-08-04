@@ -24,5 +24,4 @@ This is a fully responsive and visually engaging portfolio website built using H
 - HTML
 - CSS
 - JavaScript
-   git clone https://github.com/your-username/portfolio-website.git
 
